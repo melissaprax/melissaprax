@@ -45,11 +45,6 @@ I'm a **front-end developer** with expertise in **data visualization**, **UI/UX 
 - Built a **React & Node.js application** helping users find farmer's markets that accept SNAP/WIC.  
 - Integrated **Google Maps API & USDA data** for real-time updates.  
 
----
-
-## 📈 GitHub Stats  
-![Melissa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=melissaprax&show_icons=true&theme=radical)  
-
 <!--
 **melissaprax/melissaprax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
