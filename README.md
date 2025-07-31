@@ -17,11 +17,11 @@ I'm a **front-end developer** with expertise in **data visualization**, **UI/UX 
 
 ## Current Roles  
 
-🏢 **Front-End Developer at Northwestern University**  
+**Front-End Developer at Northwestern University**  
 - Overhauling data storytelling across the website with a reusable data visualization component library  
 - Collaborating with UI/UX designers, content writers, and stakeholders to enhance SiteCore CMS web pages  
 
-🏢 **Python Automation Engineer at Definiti**  
+**Python Automation Engineer at Definiti**  
 - Automating workflows with **Python & PensionPro API**  
 - Enhancing file management with **PowerShell scripting**  
 
