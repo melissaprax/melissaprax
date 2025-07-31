@@ -5,7 +5,7 @@ United States
 ---
 
 ## About Me  
-I'm a **front-end developer** with expertise in **data visualization**, **UI/UX development**, and **automation scripting**. I enjoy building scalable, interactive, and accessible web experiences with modern technologies. My background includes **journalism**, which enhances my ability to tell compelling data-driven stories through code.  
+I'm a **full-stack developer** with expertise in **front-end development**, **data visualization**, **machine learning**, **AI development** and **automation scripting**. I enjoy building scalable, interactive, and accessible web experiences with modern technologies. My background includes **journalism**, which enhances my ability to tell compelling data-driven stories through code.  
 
 ### **Technical Skills**  
 - **Front-End Development**: React, JavaScript, TypeScript, Angular, HTML, CSS  
